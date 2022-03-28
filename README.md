@@ -1,13 +1,6 @@
 <h1 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
-
-<div align="center">
-  <a href="https://github.com/joaopa12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopa12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopa12&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
   
 ## 📚 Minha Stack
 <div style="display: inline_block"><br>        
@@ -18,3 +11,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">        
 </div>
+
+<div align="center">
+  <a href="https://github.com/joaopa12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopa12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopa12&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
