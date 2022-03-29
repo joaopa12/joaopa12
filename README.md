@@ -3,7 +3,7 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
   
 ## 📚 Stack
-<div style="display: inline_block"><br>        
+<div style="display: inline_block">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
