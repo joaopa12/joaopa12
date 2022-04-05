@@ -2,7 +2,7 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lopes-6625631b0/)](https://www.linkedin.com/in/gabriel-lopes-6625631b0/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopa51/)](https://www.linkedin.com/in/joaopa51/)
   
 ## 📚 Stack
 <div style="display: inline_block">
